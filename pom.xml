@@ -36,9 +36,9 @@
   </developers>
 
   <scm>
-    <connection>scm:svn:http://svn.codehaus.org/sonar-plugins/trunk/fb-contrib</connection>
-    <developerConnection>scm:svn:https://svn.codehaus.org/sonar-plugins/trunk/fb-contrib</developerConnection>
-    <url>http://svn.sonar-plugins.codehaus.org</url>
+    <connection>scm:git:git@github.com:SonarCommunity/sonar-fb-contrib.git</connection>
+    <developerConnection>scm:git:git@github.com:SonarCommunity/sonar-fb-contrib.git</developerConnection>
+    <url>https://github.com/SonarCommunity/sonar-fb-contrib</url>
   </scm>
   <issueManagement>
     <system>JIRA</system>
