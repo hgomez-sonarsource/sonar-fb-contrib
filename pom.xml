@@ -83,7 +83,7 @@
         <artifactId>sonar-packaging-maven-plugin</artifactId>
         <configuration>
           <basePlugin>findbugs</basePlugin>
-          <requirePlugins>findbugs:1.4</requirePlugins>
+          <requirePlugins>java:1.4</requirePlugins>
         </configuration>
       </plugin>
     </plugins>
