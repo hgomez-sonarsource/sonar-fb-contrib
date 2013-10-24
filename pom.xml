@@ -11,7 +11,7 @@
   <version>1.2-SNAPSHOT</version>
   <packaging>sonar-plugin</packaging>
 
-  <name>Sonar fb-contrib Plugin</name>
+  <name>SonarQube fb-contrib Plugin</name>
   <description>New Findbugs rules (see http://fb-contrib.sourceforge.net)</description>
   <url>http://docs.codehaus.org/display/SONAR/fb-contrib+Plugin</url>
   <inceptionYear>2010</inceptionYear>
