@@ -49,7 +49,7 @@
   </ciManagement>
 
   <properties>
-    <sonar.buildVersion>3.0</sonar.buildVersion>
+    <sonar.buildVersion>3.6</sonar.buildVersion>
     <fbcontrib.version>4.6.1</fbcontrib.version>
     <sonar.pluginName>fb-contrib</sonar.pluginName>
     <sonar.pluginClass>org.sonar.plugins.fbcontrib.FbContribPlugin</sonar.pluginClass>
