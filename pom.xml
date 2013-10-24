@@ -49,7 +49,7 @@
 
   <properties>
     <sonar.buildVersion>3.6</sonar.buildVersion>
-    <fbcontrib.version>4.6.1</fbcontrib.version>
+    <fbcontrib.version>4.8.5</fbcontrib.version>
     <sonar.pluginName>fb-contrib</sonar.pluginName>
     <sonar.pluginClass>org.sonar.plugins.fbcontrib.FbContribPlugin</sonar.pluginClass>
   </properties>
@@ -62,8 +62,8 @@
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>com.mebigfatguy</groupId>
-      <artifactId>fbcontrib</artifactId>
+      <groupId>com.mebigfatguy.fb-contrib</groupId>
+      <artifactId>fb-contrib</artifactId>
       <version>${fbcontrib.version}</version>
     </dependency>
     <!-- unit tests -->
@@ -94,18 +94,4 @@
     </plugins>
   </build>
 
-  <repositories>
-    <repository>
-      <!-- for fbcontrib -->
-      <id>sonar</id>
-      <name>Sonar</name>
-      <url>http://repository.sonarsource.org/content/repositories/sonar</url>
-      <releases>
-        <enabled>true</enabled>
-      </releases>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-    </repository>
-  </repositories>
 </project>
