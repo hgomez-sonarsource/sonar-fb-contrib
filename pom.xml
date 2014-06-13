@@ -8,7 +8,7 @@
   </parent>
 
   <artifactId>sonar-fb-contrib-plugin</artifactId>
-  <version>1.3</version>
+  <version>1.4-SNAPSHOT</version>
   <packaging>sonar-plugin</packaging>
 
   <name>SonarQube fb-contrib Plugin</name>
@@ -38,7 +38,7 @@
     <connection>scm:git:git@github.com:SonarCommunity/sonar-fb-contrib.git</connection>
     <developerConnection>scm:git:git@github.com:SonarCommunity/sonar-fb-contrib.git</developerConnection>
     <url>https://github.com/SonarCommunity/sonar-fb-contrib</url>
-    <tag>1.3</tag>
+    <tag>HEAD</tag>
   </scm>
   <issueManagement>
     <system>JIRA</system>
